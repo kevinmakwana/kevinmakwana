@@ -7,7 +7,7 @@
 <div size='20px'> My name is Kevin,a passionate self-taught full stack web developer and a freelance software engineer from india. Thank You for taking the time to view my GitHub Profile :smile:</div>
 <h2>About Me</h2>
 
-- 🔭 I’m currently learning Tall Stack technologies.
+- 🔭 I’m currently learning frontend technologies.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Talk to me about PHP, Laravel.
 
@@ -28,7 +28,7 @@
 
   <li><p><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>Tools : <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'><img width ='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg'></p></li>
 
-  <li><p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning : <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg'></p></li>
+  <li><p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning : <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg'></p></li>
   
 
   
