@@ -11,7 +11,18 @@
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Talk to me about PHP, Laravel.
 
-<h2> Skills and Tools :<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Tech Stack :<img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width = 32px> </h2>
+
+<blockquote>
+<p dir="auto">skills</p>
+</blockquote>
+
+<ul>
+  <li><p><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg'>  Back-end：<img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'></p></li>
+  
+  <li><p><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg'>  Front-end： </p></li>
+</ul>
+
 
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg'> </a>
 <a href=# > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> </a>
