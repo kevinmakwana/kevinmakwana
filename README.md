@@ -14,7 +14,7 @@ Hi There👋
 
 ### Tech Stack <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width = 32px>
 
-### >Skills
+>Skills
 
 <ul>
   <li>
@@ -22,7 +22,7 @@ Hi There👋
       🔭
       Back-end：
          <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt='Lavarel'></a>
-         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
+         <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'></a>
     </p>
   </li>
   
