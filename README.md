@@ -25,7 +25,7 @@ Hi There👋
 - 🛠️ Tools : <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg'></a>
       
 - 🌱 Learning : <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6128107?s=60&v=4" width="36" height="36" alt="Vue" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
  
 
