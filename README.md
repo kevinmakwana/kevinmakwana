@@ -22,11 +22,11 @@ Hi There👋
       🔭
       Back-end：
         
-         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' width="36" height="36"  alt="Lavarel"> 
+         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt="Lavarel"> 
        
         
      
-        <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width="36" height="36"  alt="PHP"> 
+        <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt="PHP"> 
      
     </p>
   </li>
