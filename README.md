@@ -18,30 +18,25 @@ Hi There👋
          <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt='Lavarel'></a>
          <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'></a>
 
-- 🔭
-      Front-end：  
+- 🔭 Front-end：  
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'> 
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'>
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
-- 💻
-      DB: 
+- 💻 DB: 
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'>
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'>
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg'>
       
-- ⚙️
-      CI/CD : 
+- ⚙️ CI/CD : 
       <img width ='32px' src ='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'> 
       <img width ='32px' src ='https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg'>
       
-- 🛠️
-      Tools : 
+- 🛠️ Tools : 
       <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'>
       <img width ='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'>
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg'>
-- 🌱
-      Learning : 
+- 🌱 Learning : 
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'> 
       <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg'>
  
