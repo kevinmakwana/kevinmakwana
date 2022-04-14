@@ -21,13 +21,8 @@ Hi There👋
     <p>
       🔭
       Back-end：
-        
-         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt="Lavarel"> 
-       
-        
-     
-        <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt="PHP"> 
-     
+         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt='Lavarel'> 
+         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt='PHP'> 
     </p>
   </li>
   
