@@ -21,13 +21,13 @@ Hi There👋
     <p>
       🔭
       Back-end：
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' width="36" height="36"  alt="Lavarel"> 
-       </a>
         
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' width="36" height="36"  alt="Lavarel"> 
+       
+        
+     
         <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width="36" height="36"  alt="PHP"> 
-      </a>
+     
     </p>
   </li>
   
