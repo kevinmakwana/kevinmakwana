@@ -1,17 +1,18 @@
-<!-- <div align="center">
-  <img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
-</div> -->
+Hi There👋
+=============
 
-<h1> Hi there 👋 </h1>
+\- My name is Kevin Makwana,a passionate self-taught full-stack software developer from India. Thank You for taking the time to view my GitHub Profile :smile:
 
-<div size='20px'> My name is Kevin,a passionate self-taught full stack web developer and a freelance software engineer from india. Thank You for taking the time to view my GitHub Profile :smile:</div>
-<h2>About Me</h2>
+### About
 
-- 🔭 I’m currently learning frontend technologies.
-- 👯 I’m looking to collaborate on Projects.
-- 💬 Talk to me about PHP, Laravel.
+* 🌍  I'm based in Rajkot, Gujarat, India
+* ✉️  You can contact me at [kevinmakwana189@gmail.com](mailto:kevinmakwana189@gmail.com)
+* 🧠  I'm learning Tailwind, Alpine.js, Livewire, React.js
+* 🤝  I'm open to collaborating on PHP, Laravel
+* 👯 I’m looking to collaborate on Projects
+* ⚡  Innovating, Executing, Collaborating and Having Fun is motivate me.
 
-<h2> Tech Stack :<img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width = 32px> </h2>
+### Tech Stack <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width = 32px>
 
 <blockquote>
 <p dir="auto">skills</p>
