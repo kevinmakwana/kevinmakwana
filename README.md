@@ -7,8 +7,8 @@ Hi There👋
 
 * 🌍  I'm based in Rajkot, Gujarat, India
 * ✉️  You can contact me at [kevinmakwana189@gmail.com](mailto:kevinmakwana189@gmail.com)
-* 🧠  I'm learning Tailwind, Alpine.js, Livewire, Vue.js
-* 🤝  I'm open to collaborating on PHP, Laravel
+* 🧠  I'm learning React.js
+* 🤝  I'm open to collaborating on PHP, Laravel, Vue.js, Alpine.js, Livewire, Tailwind
 * 👯  I’m looking to collaborate on Projects
 * ⚡  Innovating, Executing, Collaborating and Having Fun is motivate me.
 
