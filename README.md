@@ -41,7 +41,7 @@ Hi There👋
 - 🤖 AI & Workflow: Claude Code · Cursor · GitHub Copilot · Model Context Protocol (MCP) · RAG · AI Agents · Prompt Engineering
 
 - 🛠️ Tools: <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='VS Code'></a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt='Postman'></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' alt='Figma'></a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg' alt='Jira'></a>
-  <br/>New Relic · Rollbar · Papertrail · Notion · ClickUp · Trello
+  <br/>New Relic · Rollbar · Notion · ClickUp · Trello
 
 ### Experience 💼
 
